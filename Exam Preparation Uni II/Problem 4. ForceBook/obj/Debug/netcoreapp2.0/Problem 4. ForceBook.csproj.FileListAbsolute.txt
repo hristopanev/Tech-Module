@@ -1,0 +1,11 @@
+D:\Project\Tech Module\Exam Preparation Uni II\Problem 4. ForceBook\bin\Debug\netcoreapp2.0\Problem 4. ForceBook.deps.json
+D:\Project\Tech Module\Exam Preparation Uni II\Problem 4. ForceBook\bin\Debug\netcoreapp2.0\Problem 4. ForceBook.runtimeconfig.json
+D:\Project\Tech Module\Exam Preparation Uni II\Problem 4. ForceBook\bin\Debug\netcoreapp2.0\Problem 4. ForceBook.runtimeconfig.dev.json
+D:\Project\Tech Module\Exam Preparation Uni II\Problem 4. ForceBook\bin\Debug\netcoreapp2.0\Problem 4. ForceBook.dll
+D:\Project\Tech Module\Exam Preparation Uni II\Problem 4. ForceBook\bin\Debug\netcoreapp2.0\Problem 4. ForceBook.pdb
+D:\Project\Tech Module\Exam Preparation Uni II\Problem 4. ForceBook\obj\Debug\netcoreapp2.0\Problem 4. ForceBook.csprojAssemblyReference.cache
+D:\Project\Tech Module\Exam Preparation Uni II\Problem 4. ForceBook\obj\Debug\netcoreapp2.0\Problem 4. ForceBook.csproj.CoreCompileInputs.cache
+D:\Project\Tech Module\Exam Preparation Uni II\Problem 4. ForceBook\obj\Debug\netcoreapp2.0\Problem 4. ForceBook.AssemblyInfoInputs.cache
+D:\Project\Tech Module\Exam Preparation Uni II\Problem 4. ForceBook\obj\Debug\netcoreapp2.0\Problem 4. ForceBook.AssemblyInfo.cs
+D:\Project\Tech Module\Exam Preparation Uni II\Problem 4. ForceBook\obj\Debug\netcoreapp2.0\Problem 4. ForceBook.dll
+D:\Project\Tech Module\Exam Preparation Uni II\Problem 4. ForceBook\obj\Debug\netcoreapp2.0\Problem 4. ForceBook.pdb

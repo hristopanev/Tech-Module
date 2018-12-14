@@ -1,0 +1,11 @@
+D:\Project\Tech Module\ConditonAndLoop\Problem 1. Passed\bin\Debug\netcoreapp2.0\Problem 1. Passed.deps.json
+D:\Project\Tech Module\ConditonAndLoop\Problem 1. Passed\bin\Debug\netcoreapp2.0\Problem 1. Passed.runtimeconfig.json
+D:\Project\Tech Module\ConditonAndLoop\Problem 1. Passed\bin\Debug\netcoreapp2.0\Problem 1. Passed.runtimeconfig.dev.json
+D:\Project\Tech Module\ConditonAndLoop\Problem 1. Passed\bin\Debug\netcoreapp2.0\Problem 1. Passed.dll
+D:\Project\Tech Module\ConditonAndLoop\Problem 1. Passed\bin\Debug\netcoreapp2.0\Problem 1. Passed.pdb
+D:\Project\Tech Module\ConditonAndLoop\Problem 1. Passed\obj\Debug\netcoreapp2.0\Problem 1. Passed.csprojResolveAssemblyReference.cache
+D:\Project\Tech Module\ConditonAndLoop\Problem 1. Passed\obj\Debug\netcoreapp2.0\Problem 1. Passed.csproj.CoreCompileInputs.cache
+D:\Project\Tech Module\ConditonAndLoop\Problem 1. Passed\obj\Debug\netcoreapp2.0\Problem 1. Passed.AssemblyInfoInputs.cache
+D:\Project\Tech Module\ConditonAndLoop\Problem 1. Passed\obj\Debug\netcoreapp2.0\Problem 1. Passed.AssemblyInfo.cs
+D:\Project\Tech Module\ConditonAndLoop\Problem 1. Passed\obj\Debug\netcoreapp2.0\Problem 1. Passed.dll
+D:\Project\Tech Module\ConditonAndLoop\Problem 1. Passed\obj\Debug\netcoreapp2.0\Problem 1. Passed.pdb

@@ -1,0 +1,10 @@
+D:\Project\Tech Module\Exercise Arrays, Lists, Array and List Algorithms\Problem 2. Anonymous Vox\bin\Debug\netcoreapp2.0\Problem 2. Anonymous Vox.deps.json
+D:\Project\Tech Module\Exercise Arrays, Lists, Array and List Algorithms\Problem 2. Anonymous Vox\bin\Debug\netcoreapp2.0\Problem 2. Anonymous Vox.runtimeconfig.json
+D:\Project\Tech Module\Exercise Arrays, Lists, Array and List Algorithms\Problem 2. Anonymous Vox\bin\Debug\netcoreapp2.0\Problem 2. Anonymous Vox.runtimeconfig.dev.json
+D:\Project\Tech Module\Exercise Arrays, Lists, Array and List Algorithms\Problem 2. Anonymous Vox\bin\Debug\netcoreapp2.0\Problem 2. Anonymous Vox.dll
+D:\Project\Tech Module\Exercise Arrays, Lists, Array and List Algorithms\Problem 2. Anonymous Vox\bin\Debug\netcoreapp2.0\Problem 2. Anonymous Vox.pdb
+D:\Project\Tech Module\Exercise Arrays, Lists, Array and List Algorithms\Problem 2. Anonymous Vox\obj\Debug\netcoreapp2.0\Problem 2. Anonymous Vox.csproj.CoreCompileInputs.cache
+D:\Project\Tech Module\Exercise Arrays, Lists, Array and List Algorithms\Problem 2. Anonymous Vox\obj\Debug\netcoreapp2.0\Problem 2. Anonymous Vox.AssemblyInfoInputs.cache
+D:\Project\Tech Module\Exercise Arrays, Lists, Array and List Algorithms\Problem 2. Anonymous Vox\obj\Debug\netcoreapp2.0\Problem 2. Anonymous Vox.AssemblyInfo.cs
+D:\Project\Tech Module\Exercise Arrays, Lists, Array and List Algorithms\Problem 2. Anonymous Vox\obj\Debug\netcoreapp2.0\Problem 2. Anonymous Vox.dll
+D:\Project\Tech Module\Exercise Arrays, Lists, Array and List Algorithms\Problem 2. Anonymous Vox\obj\Debug\netcoreapp2.0\Problem 2. Anonymous Vox.pdb

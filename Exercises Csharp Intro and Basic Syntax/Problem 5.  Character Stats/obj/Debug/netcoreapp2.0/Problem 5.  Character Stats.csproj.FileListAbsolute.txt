@@ -1,0 +1,11 @@
+D:\Project\Tech Module\Exercises Csharp Intro and Basic Syntax\Problem 5.  Character Stats\bin\Debug\netcoreapp2.0\Problem 5.  Character Stats.deps.json
+D:\Project\Tech Module\Exercises Csharp Intro and Basic Syntax\Problem 5.  Character Stats\bin\Debug\netcoreapp2.0\Problem 5.  Character Stats.runtimeconfig.json
+D:\Project\Tech Module\Exercises Csharp Intro and Basic Syntax\Problem 5.  Character Stats\bin\Debug\netcoreapp2.0\Problem 5.  Character Stats.runtimeconfig.dev.json
+D:\Project\Tech Module\Exercises Csharp Intro and Basic Syntax\Problem 5.  Character Stats\bin\Debug\netcoreapp2.0\Problem 5.  Character Stats.dll
+D:\Project\Tech Module\Exercises Csharp Intro and Basic Syntax\Problem 5.  Character Stats\bin\Debug\netcoreapp2.0\Problem 5.  Character Stats.pdb
+D:\Project\Tech Module\Exercises Csharp Intro and Basic Syntax\Problem 5.  Character Stats\obj\Debug\netcoreapp2.0\Problem 5.  Character Stats.csprojResolveAssemblyReference.cache
+D:\Project\Tech Module\Exercises Csharp Intro and Basic Syntax\Problem 5.  Character Stats\obj\Debug\netcoreapp2.0\Problem 5.  Character Stats.csproj.CoreCompileInputs.cache
+D:\Project\Tech Module\Exercises Csharp Intro and Basic Syntax\Problem 5.  Character Stats\obj\Debug\netcoreapp2.0\Problem 5.  Character Stats.AssemblyInfoInputs.cache
+D:\Project\Tech Module\Exercises Csharp Intro and Basic Syntax\Problem 5.  Character Stats\obj\Debug\netcoreapp2.0\Problem 5.  Character Stats.AssemblyInfo.cs
+D:\Project\Tech Module\Exercises Csharp Intro and Basic Syntax\Problem 5.  Character Stats\obj\Debug\netcoreapp2.0\Problem 5.  Character Stats.dll
+D:\Project\Tech Module\Exercises Csharp Intro and Basic Syntax\Problem 5.  Character Stats\obj\Debug\netcoreapp2.0\Problem 5.  Character Stats.pdb

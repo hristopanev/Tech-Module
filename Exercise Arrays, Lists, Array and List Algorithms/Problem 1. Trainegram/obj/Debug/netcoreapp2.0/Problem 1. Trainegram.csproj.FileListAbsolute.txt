@@ -1,0 +1,11 @@
+D:\Project\Tech Module\Exercise Arrays, Lists, Array and List Algorithms\Problem 1. Trainegram\bin\Debug\netcoreapp2.0\Problem 1. Trainegram.deps.json
+D:\Project\Tech Module\Exercise Arrays, Lists, Array and List Algorithms\Problem 1. Trainegram\bin\Debug\netcoreapp2.0\Problem 1. Trainegram.runtimeconfig.json
+D:\Project\Tech Module\Exercise Arrays, Lists, Array and List Algorithms\Problem 1. Trainegram\bin\Debug\netcoreapp2.0\Problem 1. Trainegram.runtimeconfig.dev.json
+D:\Project\Tech Module\Exercise Arrays, Lists, Array and List Algorithms\Problem 1. Trainegram\bin\Debug\netcoreapp2.0\Problem 1. Trainegram.dll
+D:\Project\Tech Module\Exercise Arrays, Lists, Array and List Algorithms\Problem 1. Trainegram\bin\Debug\netcoreapp2.0\Problem 1. Trainegram.pdb
+D:\Project\Tech Module\Exercise Arrays, Lists, Array and List Algorithms\Problem 1. Trainegram\obj\Debug\netcoreapp2.0\Problem 1. Trainegram.csprojAssemblyReference.cache
+D:\Project\Tech Module\Exercise Arrays, Lists, Array and List Algorithms\Problem 1. Trainegram\obj\Debug\netcoreapp2.0\Problem 1. Trainegram.csproj.CoreCompileInputs.cache
+D:\Project\Tech Module\Exercise Arrays, Lists, Array and List Algorithms\Problem 1. Trainegram\obj\Debug\netcoreapp2.0\Problem 1. Trainegram.AssemblyInfoInputs.cache
+D:\Project\Tech Module\Exercise Arrays, Lists, Array and List Algorithms\Problem 1. Trainegram\obj\Debug\netcoreapp2.0\Problem 1. Trainegram.AssemblyInfo.cs
+D:\Project\Tech Module\Exercise Arrays, Lists, Array and List Algorithms\Problem 1. Trainegram\obj\Debug\netcoreapp2.0\Problem 1. Trainegram.dll
+D:\Project\Tech Module\Exercise Arrays, Lists, Array and List Algorithms\Problem 1. Trainegram\obj\Debug\netcoreapp2.0\Problem 1. Trainegram.pdb

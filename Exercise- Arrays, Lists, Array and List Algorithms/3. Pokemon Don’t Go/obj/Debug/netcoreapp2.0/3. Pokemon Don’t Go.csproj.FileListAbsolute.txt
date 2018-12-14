@@ -1,0 +1,11 @@
+D:\Project\Tech Module\Exercise- Arrays, Lists, Array and List Algorithms\3. Pokemon Don’t Go\bin\Debug\netcoreapp2.0\3. Pokemon Don’t Go.deps.json
+D:\Project\Tech Module\Exercise- Arrays, Lists, Array and List Algorithms\3. Pokemon Don’t Go\bin\Debug\netcoreapp2.0\3. Pokemon Don’t Go.runtimeconfig.json
+D:\Project\Tech Module\Exercise- Arrays, Lists, Array and List Algorithms\3. Pokemon Don’t Go\bin\Debug\netcoreapp2.0\3. Pokemon Don’t Go.runtimeconfig.dev.json
+D:\Project\Tech Module\Exercise- Arrays, Lists, Array and List Algorithms\3. Pokemon Don’t Go\bin\Debug\netcoreapp2.0\3. Pokemon Don’t Go.dll
+D:\Project\Tech Module\Exercise- Arrays, Lists, Array and List Algorithms\3. Pokemon Don’t Go\bin\Debug\netcoreapp2.0\3. Pokemon Don’t Go.pdb
+D:\Project\Tech Module\Exercise- Arrays, Lists, Array and List Algorithms\3. Pokemon Don’t Go\obj\Debug\netcoreapp2.0\3. Pokemon Don’t Go.csprojAssemblyReference.cache
+D:\Project\Tech Module\Exercise- Arrays, Lists, Array and List Algorithms\3. Pokemon Don’t Go\obj\Debug\netcoreapp2.0\3. Pokemon Don’t Go.csproj.CoreCompileInputs.cache
+D:\Project\Tech Module\Exercise- Arrays, Lists, Array and List Algorithms\3. Pokemon Don’t Go\obj\Debug\netcoreapp2.0\3. Pokemon Don’t Go.AssemblyInfoInputs.cache
+D:\Project\Tech Module\Exercise- Arrays, Lists, Array and List Algorithms\3. Pokemon Don’t Go\obj\Debug\netcoreapp2.0\3. Pokemon Don’t Go.AssemblyInfo.cs
+D:\Project\Tech Module\Exercise- Arrays, Lists, Array and List Algorithms\3. Pokemon Don’t Go\obj\Debug\netcoreapp2.0\3. Pokemon Don’t Go.dll
+D:\Project\Tech Module\Exercise- Arrays, Lists, Array and List Algorithms\3. Pokemon Don’t Go\obj\Debug\netcoreapp2.0\3. Pokemon Don’t Go.pdb

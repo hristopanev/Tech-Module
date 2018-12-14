@@ -1,0 +1,11 @@
+D:\Project\Tech Module\Exam Praparaton II Januar\Problem 3 – Snowflake\bin\Debug\netcoreapp2.0\Problem 3 – Snowflake.deps.json
+D:\Project\Tech Module\Exam Praparaton II Januar\Problem 3 – Snowflake\bin\Debug\netcoreapp2.0\Problem 3 – Snowflake.runtimeconfig.json
+D:\Project\Tech Module\Exam Praparaton II Januar\Problem 3 – Snowflake\bin\Debug\netcoreapp2.0\Problem 3 – Snowflake.runtimeconfig.dev.json
+D:\Project\Tech Module\Exam Praparaton II Januar\Problem 3 – Snowflake\bin\Debug\netcoreapp2.0\Problem 3 – Snowflake.dll
+D:\Project\Tech Module\Exam Praparaton II Januar\Problem 3 – Snowflake\bin\Debug\netcoreapp2.0\Problem 3 – Snowflake.pdb
+D:\Project\Tech Module\Exam Praparaton II Januar\Problem 3 – Snowflake\obj\Debug\netcoreapp2.0\Problem 3 – Snowflake.csprojAssemblyReference.cache
+D:\Project\Tech Module\Exam Praparaton II Januar\Problem 3 – Snowflake\obj\Debug\netcoreapp2.0\Problem 3 – Snowflake.csproj.CoreCompileInputs.cache
+D:\Project\Tech Module\Exam Praparaton II Januar\Problem 3 – Snowflake\obj\Debug\netcoreapp2.0\Problem 3 – Snowflake.AssemblyInfoInputs.cache
+D:\Project\Tech Module\Exam Praparaton II Januar\Problem 3 – Snowflake\obj\Debug\netcoreapp2.0\Problem 3 – Snowflake.AssemblyInfo.cs
+D:\Project\Tech Module\Exam Praparaton II Januar\Problem 3 – Snowflake\obj\Debug\netcoreapp2.0\Problem 3 – Snowflake.dll
+D:\Project\Tech Module\Exam Praparaton II Januar\Problem 3 – Snowflake\obj\Debug\netcoreapp2.0\Problem 3 – Snowflake.pdb

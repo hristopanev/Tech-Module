@@ -1,0 +1,10 @@
+D:\Project\Tech Module\Exam Preparation\Problem 4. Resurrection\bin\Debug\netcoreapp2.0\Problem 4. Resurrection.deps.json
+D:\Project\Tech Module\Exam Preparation\Problem 4. Resurrection\bin\Debug\netcoreapp2.0\Problem 4. Resurrection.runtimeconfig.json
+D:\Project\Tech Module\Exam Preparation\Problem 4. Resurrection\bin\Debug\netcoreapp2.0\Problem 4. Resurrection.runtimeconfig.dev.json
+D:\Project\Tech Module\Exam Preparation\Problem 4. Resurrection\bin\Debug\netcoreapp2.0\Problem 4. Resurrection.dll
+D:\Project\Tech Module\Exam Preparation\Problem 4. Resurrection\bin\Debug\netcoreapp2.0\Problem 4. Resurrection.pdb
+D:\Project\Tech Module\Exam Preparation\Problem 4. Resurrection\obj\Debug\netcoreapp2.0\Problem 4. Resurrection.csproj.CoreCompileInputs.cache
+D:\Project\Tech Module\Exam Preparation\Problem 4. Resurrection\obj\Debug\netcoreapp2.0\Problem 4. Resurrection.AssemblyInfoInputs.cache
+D:\Project\Tech Module\Exam Preparation\Problem 4. Resurrection\obj\Debug\netcoreapp2.0\Problem 4. Resurrection.AssemblyInfo.cs
+D:\Project\Tech Module\Exam Preparation\Problem 4. Resurrection\obj\Debug\netcoreapp2.0\Problem 4. Resurrection.dll
+D:\Project\Tech Module\Exam Preparation\Problem 4. Resurrection\obj\Debug\netcoreapp2.0\Problem 4. Resurrection.pdb

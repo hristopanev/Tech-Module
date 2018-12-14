@@ -1,0 +1,11 @@
+D:\Project\Tech Module\Exercise Arrays, Lists, Array and List Algorithms\p03\bin\Debug\netcoreapp2.0\p03.deps.json
+D:\Project\Tech Module\Exercise Arrays, Lists, Array and List Algorithms\p03\bin\Debug\netcoreapp2.0\p03.runtimeconfig.json
+D:\Project\Tech Module\Exercise Arrays, Lists, Array and List Algorithms\p03\bin\Debug\netcoreapp2.0\p03.runtimeconfig.dev.json
+D:\Project\Tech Module\Exercise Arrays, Lists, Array and List Algorithms\p03\bin\Debug\netcoreapp2.0\p03.dll
+D:\Project\Tech Module\Exercise Arrays, Lists, Array and List Algorithms\p03\bin\Debug\netcoreapp2.0\p03.pdb
+D:\Project\Tech Module\Exercise Arrays, Lists, Array and List Algorithms\p03\obj\Debug\netcoreapp2.0\p03.csprojAssemblyReference.cache
+D:\Project\Tech Module\Exercise Arrays, Lists, Array and List Algorithms\p03\obj\Debug\netcoreapp2.0\p03.csproj.CoreCompileInputs.cache
+D:\Project\Tech Module\Exercise Arrays, Lists, Array and List Algorithms\p03\obj\Debug\netcoreapp2.0\p03.AssemblyInfoInputs.cache
+D:\Project\Tech Module\Exercise Arrays, Lists, Array and List Algorithms\p03\obj\Debug\netcoreapp2.0\p03.AssemblyInfo.cs
+D:\Project\Tech Module\Exercise Arrays, Lists, Array and List Algorithms\p03\obj\Debug\netcoreapp2.0\p03.dll
+D:\Project\Tech Module\Exercise Arrays, Lists, Array and List Algorithms\p03\obj\Debug\netcoreapp2.0\p03.pdb

@@ -1,0 +1,10 @@
+D:\Project\Tech Module\ConditonAndLoop\Problem 9. Multiplication Table\bin\Debug\netcoreapp2.0\Problem 9. Multiplication Table.deps.json
+D:\Project\Tech Module\ConditonAndLoop\Problem 9. Multiplication Table\bin\Debug\netcoreapp2.0\Problem 9. Multiplication Table.runtimeconfig.json
+D:\Project\Tech Module\ConditonAndLoop\Problem 9. Multiplication Table\bin\Debug\netcoreapp2.0\Problem 9. Multiplication Table.runtimeconfig.dev.json
+D:\Project\Tech Module\ConditonAndLoop\Problem 9. Multiplication Table\bin\Debug\netcoreapp2.0\Problem 9. Multiplication Table.dll
+D:\Project\Tech Module\ConditonAndLoop\Problem 9. Multiplication Table\bin\Debug\netcoreapp2.0\Problem 9. Multiplication Table.pdb
+D:\Project\Tech Module\ConditonAndLoop\Problem 9. Multiplication Table\obj\Debug\netcoreapp2.0\Problem 9. Multiplication Table.csproj.CoreCompileInputs.cache
+D:\Project\Tech Module\ConditonAndLoop\Problem 9. Multiplication Table\obj\Debug\netcoreapp2.0\Problem 9. Multiplication Table.AssemblyInfoInputs.cache
+D:\Project\Tech Module\ConditonAndLoop\Problem 9. Multiplication Table\obj\Debug\netcoreapp2.0\Problem 9. Multiplication Table.AssemblyInfo.cs
+D:\Project\Tech Module\ConditonAndLoop\Problem 9. Multiplication Table\obj\Debug\netcoreapp2.0\Problem 9. Multiplication Table.dll
+D:\Project\Tech Module\ConditonAndLoop\Problem 9. Multiplication Table\obj\Debug\netcoreapp2.0\Problem 9. Multiplication Table.pdb

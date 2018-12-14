@@ -1,0 +1,11 @@
+D:\Project\Tech Module\Exam Preparation Uni I\Problem 2 – Memory View\bin\Debug\netcoreapp2.0\Problem 2 – Memory View.deps.json
+D:\Project\Tech Module\Exam Preparation Uni I\Problem 2 – Memory View\bin\Debug\netcoreapp2.0\Problem 2 – Memory View.runtimeconfig.json
+D:\Project\Tech Module\Exam Preparation Uni I\Problem 2 – Memory View\bin\Debug\netcoreapp2.0\Problem 2 – Memory View.runtimeconfig.dev.json
+D:\Project\Tech Module\Exam Preparation Uni I\Problem 2 – Memory View\bin\Debug\netcoreapp2.0\Problem 2 – Memory View.dll
+D:\Project\Tech Module\Exam Preparation Uni I\Problem 2 – Memory View\bin\Debug\netcoreapp2.0\Problem 2 – Memory View.pdb
+D:\Project\Tech Module\Exam Preparation Uni I\Problem 2 – Memory View\obj\Debug\netcoreapp2.0\Problem 2 – Memory View.csprojAssemblyReference.cache
+D:\Project\Tech Module\Exam Preparation Uni I\Problem 2 – Memory View\obj\Debug\netcoreapp2.0\Problem 2 – Memory View.csproj.CoreCompileInputs.cache
+D:\Project\Tech Module\Exam Preparation Uni I\Problem 2 – Memory View\obj\Debug\netcoreapp2.0\Problem 2 – Memory View.AssemblyInfoInputs.cache
+D:\Project\Tech Module\Exam Preparation Uni I\Problem 2 – Memory View\obj\Debug\netcoreapp2.0\Problem 2 – Memory View.AssemblyInfo.cs
+D:\Project\Tech Module\Exam Preparation Uni I\Problem 2 – Memory View\obj\Debug\netcoreapp2.0\Problem 2 – Memory View.dll
+D:\Project\Tech Module\Exam Preparation Uni I\Problem 2 – Memory View\obj\Debug\netcoreapp2.0\Problem 2 – Memory View.pdb

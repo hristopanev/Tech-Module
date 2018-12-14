@@ -1,0 +1,11 @@
+D:\Project\Tech Module\Exam Praparaton I-b Januar\Problem 1. Charity Marathon\bin\Debug\netcoreapp2.0\Problem 1. Charity Marathon.deps.json
+D:\Project\Tech Module\Exam Praparaton I-b Januar\Problem 1. Charity Marathon\bin\Debug\netcoreapp2.0\Problem 1. Charity Marathon.runtimeconfig.json
+D:\Project\Tech Module\Exam Praparaton I-b Januar\Problem 1. Charity Marathon\bin\Debug\netcoreapp2.0\Problem 1. Charity Marathon.runtimeconfig.dev.json
+D:\Project\Tech Module\Exam Praparaton I-b Januar\Problem 1. Charity Marathon\bin\Debug\netcoreapp2.0\Problem 1. Charity Marathon.dll
+D:\Project\Tech Module\Exam Praparaton I-b Januar\Problem 1. Charity Marathon\bin\Debug\netcoreapp2.0\Problem 1. Charity Marathon.pdb
+D:\Project\Tech Module\Exam Praparaton I-b Januar\Problem 1. Charity Marathon\obj\Debug\netcoreapp2.0\Problem 1. Charity Marathon.csprojAssemblyReference.cache
+D:\Project\Tech Module\Exam Praparaton I-b Januar\Problem 1. Charity Marathon\obj\Debug\netcoreapp2.0\Problem 1. Charity Marathon.csproj.CoreCompileInputs.cache
+D:\Project\Tech Module\Exam Praparaton I-b Januar\Problem 1. Charity Marathon\obj\Debug\netcoreapp2.0\Problem 1. Charity Marathon.AssemblyInfoInputs.cache
+D:\Project\Tech Module\Exam Praparaton I-b Januar\Problem 1. Charity Marathon\obj\Debug\netcoreapp2.0\Problem 1. Charity Marathon.AssemblyInfo.cs
+D:\Project\Tech Module\Exam Praparaton I-b Januar\Problem 1. Charity Marathon\obj\Debug\netcoreapp2.0\Problem 1. Charity Marathon.dll
+D:\Project\Tech Module\Exam Praparaton I-b Januar\Problem 1. Charity Marathon\obj\Debug\netcoreapp2.0\Problem 1. Charity Marathon.pdb

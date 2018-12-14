@@ -1,0 +1,11 @@
+D:\Project\Tech Module\Exercise- Arrays, Lists, Array and List Algorithms\1. Anonymous Threat\bin\Debug\netcoreapp2.0\1. Anonymous Threat.deps.json
+D:\Project\Tech Module\Exercise- Arrays, Lists, Array and List Algorithms\1. Anonymous Threat\bin\Debug\netcoreapp2.0\1. Anonymous Threat.runtimeconfig.json
+D:\Project\Tech Module\Exercise- Arrays, Lists, Array and List Algorithms\1. Anonymous Threat\bin\Debug\netcoreapp2.0\1. Anonymous Threat.runtimeconfig.dev.json
+D:\Project\Tech Module\Exercise- Arrays, Lists, Array and List Algorithms\1. Anonymous Threat\bin\Debug\netcoreapp2.0\1. Anonymous Threat.dll
+D:\Project\Tech Module\Exercise- Arrays, Lists, Array and List Algorithms\1. Anonymous Threat\bin\Debug\netcoreapp2.0\1. Anonymous Threat.pdb
+D:\Project\Tech Module\Exercise- Arrays, Lists, Array and List Algorithms\1. Anonymous Threat\obj\Debug\netcoreapp2.0\1. Anonymous Threat.csprojAssemblyReference.cache
+D:\Project\Tech Module\Exercise- Arrays, Lists, Array and List Algorithms\1. Anonymous Threat\obj\Debug\netcoreapp2.0\1. Anonymous Threat.csproj.CoreCompileInputs.cache
+D:\Project\Tech Module\Exercise- Arrays, Lists, Array and List Algorithms\1. Anonymous Threat\obj\Debug\netcoreapp2.0\1. Anonymous Threat.AssemblyInfoInputs.cache
+D:\Project\Tech Module\Exercise- Arrays, Lists, Array and List Algorithms\1. Anonymous Threat\obj\Debug\netcoreapp2.0\1. Anonymous Threat.AssemblyInfo.cs
+D:\Project\Tech Module\Exercise- Arrays, Lists, Array and List Algorithms\1. Anonymous Threat\obj\Debug\netcoreapp2.0\1. Anonymous Threat.dll
+D:\Project\Tech Module\Exercise- Arrays, Lists, Array and List Algorithms\1. Anonymous Threat\obj\Debug\netcoreapp2.0\1. Anonymous Threat.pdb

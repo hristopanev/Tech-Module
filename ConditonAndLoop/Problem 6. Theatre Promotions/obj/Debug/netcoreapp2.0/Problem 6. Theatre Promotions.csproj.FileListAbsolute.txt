@@ -1,0 +1,11 @@
+D:\Project\Tech Module\ConditonAndLoop\Problem 6. Theatre Promotions\bin\Debug\netcoreapp2.0\Problem 6. Theatre Promotions.deps.json
+D:\Project\Tech Module\ConditonAndLoop\Problem 6. Theatre Promotions\bin\Debug\netcoreapp2.0\Problem 6. Theatre Promotions.runtimeconfig.json
+D:\Project\Tech Module\ConditonAndLoop\Problem 6. Theatre Promotions\bin\Debug\netcoreapp2.0\Problem 6. Theatre Promotions.runtimeconfig.dev.json
+D:\Project\Tech Module\ConditonAndLoop\Problem 6. Theatre Promotions\bin\Debug\netcoreapp2.0\Problem 6. Theatre Promotions.dll
+D:\Project\Tech Module\ConditonAndLoop\Problem 6. Theatre Promotions\bin\Debug\netcoreapp2.0\Problem 6. Theatre Promotions.pdb
+D:\Project\Tech Module\ConditonAndLoop\Problem 6. Theatre Promotions\obj\Debug\netcoreapp2.0\Problem 6. Theatre Promotions.csprojResolveAssemblyReference.cache
+D:\Project\Tech Module\ConditonAndLoop\Problem 6. Theatre Promotions\obj\Debug\netcoreapp2.0\Problem 6. Theatre Promotions.csproj.CoreCompileInputs.cache
+D:\Project\Tech Module\ConditonAndLoop\Problem 6. Theatre Promotions\obj\Debug\netcoreapp2.0\Problem 6. Theatre Promotions.AssemblyInfoInputs.cache
+D:\Project\Tech Module\ConditonAndLoop\Problem 6. Theatre Promotions\obj\Debug\netcoreapp2.0\Problem 6. Theatre Promotions.AssemblyInfo.cs
+D:\Project\Tech Module\ConditonAndLoop\Problem 6. Theatre Promotions\obj\Debug\netcoreapp2.0\Problem 6. Theatre Promotions.dll
+D:\Project\Tech Module\ConditonAndLoop\Problem 6. Theatre Promotions\obj\Debug\netcoreapp2.0\Problem 6. Theatre Promotions.pdb

@@ -1,0 +1,10 @@
+D:\Project\Tech Module\Exercises Csharp Intro and Basic Syntax\Problem 1. Debit Card Number\bin\Debug\netcoreapp2.0\Problem 1. Debit Card Number.deps.json
+D:\Project\Tech Module\Exercises Csharp Intro and Basic Syntax\Problem 1. Debit Card Number\bin\Debug\netcoreapp2.0\Problem 1. Debit Card Number.runtimeconfig.json
+D:\Project\Tech Module\Exercises Csharp Intro and Basic Syntax\Problem 1. Debit Card Number\bin\Debug\netcoreapp2.0\Problem 1. Debit Card Number.runtimeconfig.dev.json
+D:\Project\Tech Module\Exercises Csharp Intro and Basic Syntax\Problem 1. Debit Card Number\bin\Debug\netcoreapp2.0\Problem 1. Debit Card Number.dll
+D:\Project\Tech Module\Exercises Csharp Intro and Basic Syntax\Problem 1. Debit Card Number\bin\Debug\netcoreapp2.0\Problem 1. Debit Card Number.pdb
+D:\Project\Tech Module\Exercises Csharp Intro and Basic Syntax\Problem 1. Debit Card Number\obj\Debug\netcoreapp2.0\Problem 1. Debit Card Number.csproj.CoreCompileInputs.cache
+D:\Project\Tech Module\Exercises Csharp Intro and Basic Syntax\Problem 1. Debit Card Number\obj\Debug\netcoreapp2.0\Problem 1. Debit Card Number.AssemblyInfoInputs.cache
+D:\Project\Tech Module\Exercises Csharp Intro and Basic Syntax\Problem 1. Debit Card Number\obj\Debug\netcoreapp2.0\Problem 1. Debit Card Number.AssemblyInfo.cs
+D:\Project\Tech Module\Exercises Csharp Intro and Basic Syntax\Problem 1. Debit Card Number\obj\Debug\netcoreapp2.0\Problem 1. Debit Card Number.dll
+D:\Project\Tech Module\Exercises Csharp Intro and Basic Syntax\Problem 1. Debit Card Number\obj\Debug\netcoreapp2.0\Problem 1. Debit Card Number.pdb

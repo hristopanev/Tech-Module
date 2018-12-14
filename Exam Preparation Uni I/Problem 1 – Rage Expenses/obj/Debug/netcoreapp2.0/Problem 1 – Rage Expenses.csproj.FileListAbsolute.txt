@@ -1,0 +1,10 @@
+D:\Project\Tech Module\Exam Preparation Uni I\Problem 1 – Rage Expenses\bin\Debug\netcoreapp2.0\Problem 1 – Rage Expenses.deps.json
+D:\Project\Tech Module\Exam Preparation Uni I\Problem 1 – Rage Expenses\bin\Debug\netcoreapp2.0\Problem 1 – Rage Expenses.runtimeconfig.json
+D:\Project\Tech Module\Exam Preparation Uni I\Problem 1 – Rage Expenses\bin\Debug\netcoreapp2.0\Problem 1 – Rage Expenses.runtimeconfig.dev.json
+D:\Project\Tech Module\Exam Preparation Uni I\Problem 1 – Rage Expenses\bin\Debug\netcoreapp2.0\Problem 1 – Rage Expenses.dll
+D:\Project\Tech Module\Exam Preparation Uni I\Problem 1 – Rage Expenses\bin\Debug\netcoreapp2.0\Problem 1 – Rage Expenses.pdb
+D:\Project\Tech Module\Exam Preparation Uni I\Problem 1 – Rage Expenses\obj\Debug\netcoreapp2.0\Problem 1 – Rage Expenses.csproj.CoreCompileInputs.cache
+D:\Project\Tech Module\Exam Preparation Uni I\Problem 1 – Rage Expenses\obj\Debug\netcoreapp2.0\Problem 1 – Rage Expenses.AssemblyInfoInputs.cache
+D:\Project\Tech Module\Exam Preparation Uni I\Problem 1 – Rage Expenses\obj\Debug\netcoreapp2.0\Problem 1 – Rage Expenses.AssemblyInfo.cs
+D:\Project\Tech Module\Exam Preparation Uni I\Problem 1 – Rage Expenses\obj\Debug\netcoreapp2.0\Problem 1 – Rage Expenses.dll
+D:\Project\Tech Module\Exam Preparation Uni I\Problem 1 – Rage Expenses\obj\Debug\netcoreapp2.0\Problem 1 – Rage Expenses.pdb

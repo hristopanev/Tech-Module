@@ -1,0 +1,11 @@
+D:\Project\Tech Module\Exercise- Arrays, Lists, Array and List Algorithms\2. Icarus\bin\Debug\netcoreapp2.0\2. Icarus.deps.json
+D:\Project\Tech Module\Exercise- Arrays, Lists, Array and List Algorithms\2. Icarus\bin\Debug\netcoreapp2.0\2. Icarus.runtimeconfig.json
+D:\Project\Tech Module\Exercise- Arrays, Lists, Array and List Algorithms\2. Icarus\bin\Debug\netcoreapp2.0\2. Icarus.runtimeconfig.dev.json
+D:\Project\Tech Module\Exercise- Arrays, Lists, Array and List Algorithms\2. Icarus\bin\Debug\netcoreapp2.0\2. Icarus.dll
+D:\Project\Tech Module\Exercise- Arrays, Lists, Array and List Algorithms\2. Icarus\bin\Debug\netcoreapp2.0\2. Icarus.pdb
+D:\Project\Tech Module\Exercise- Arrays, Lists, Array and List Algorithms\2. Icarus\obj\Debug\netcoreapp2.0\2. Icarus.csprojAssemblyReference.cache
+D:\Project\Tech Module\Exercise- Arrays, Lists, Array and List Algorithms\2. Icarus\obj\Debug\netcoreapp2.0\2. Icarus.csproj.CoreCompileInputs.cache
+D:\Project\Tech Module\Exercise- Arrays, Lists, Array and List Algorithms\2. Icarus\obj\Debug\netcoreapp2.0\2. Icarus.AssemblyInfoInputs.cache
+D:\Project\Tech Module\Exercise- Arrays, Lists, Array and List Algorithms\2. Icarus\obj\Debug\netcoreapp2.0\2. Icarus.AssemblyInfo.cs
+D:\Project\Tech Module\Exercise- Arrays, Lists, Array and List Algorithms\2. Icarus\obj\Debug\netcoreapp2.0\2. Icarus.dll
+D:\Project\Tech Module\Exercise- Arrays, Lists, Array and List Algorithms\2. Icarus\obj\Debug\netcoreapp2.0\2. Icarus.pdb

@@ -1,0 +1,10 @@
+D:\Project\Tech Module\Exam Preparation Uni II\Problem 1. Padawan Equipment\bin\Debug\netcoreapp2.0\Problem 1. Padawan Equipment.deps.json
+D:\Project\Tech Module\Exam Preparation Uni II\Problem 1. Padawan Equipment\bin\Debug\netcoreapp2.0\Problem 1. Padawan Equipment.runtimeconfig.json
+D:\Project\Tech Module\Exam Preparation Uni II\Problem 1. Padawan Equipment\bin\Debug\netcoreapp2.0\Problem 1. Padawan Equipment.runtimeconfig.dev.json
+D:\Project\Tech Module\Exam Preparation Uni II\Problem 1. Padawan Equipment\bin\Debug\netcoreapp2.0\Problem 1. Padawan Equipment.dll
+D:\Project\Tech Module\Exam Preparation Uni II\Problem 1. Padawan Equipment\bin\Debug\netcoreapp2.0\Problem 1. Padawan Equipment.pdb
+D:\Project\Tech Module\Exam Preparation Uni II\Problem 1. Padawan Equipment\obj\Debug\netcoreapp2.0\Problem 1. Padawan Equipment.csproj.CoreCompileInputs.cache
+D:\Project\Tech Module\Exam Preparation Uni II\Problem 1. Padawan Equipment\obj\Debug\netcoreapp2.0\Problem 1. Padawan Equipment.AssemblyInfoInputs.cache
+D:\Project\Tech Module\Exam Preparation Uni II\Problem 1. Padawan Equipment\obj\Debug\netcoreapp2.0\Problem 1. Padawan Equipment.AssemblyInfo.cs
+D:\Project\Tech Module\Exam Preparation Uni II\Problem 1. Padawan Equipment\obj\Debug\netcoreapp2.0\Problem 1. Padawan Equipment.dll
+D:\Project\Tech Module\Exam Preparation Uni II\Problem 1. Padawan Equipment\obj\Debug\netcoreapp2.0\Problem 1. Padawan Equipment.pdb

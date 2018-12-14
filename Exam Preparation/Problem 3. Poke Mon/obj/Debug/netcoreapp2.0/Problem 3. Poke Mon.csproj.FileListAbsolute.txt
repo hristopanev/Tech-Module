@@ -1,0 +1,11 @@
+D:\Project\Tech Module\Exam Preparation\Problem 3. Poke Mon\bin\Debug\netcoreapp2.0\Problem 3. Poke Mon.deps.json
+D:\Project\Tech Module\Exam Preparation\Problem 3. Poke Mon\bin\Debug\netcoreapp2.0\Problem 3. Poke Mon.runtimeconfig.json
+D:\Project\Tech Module\Exam Preparation\Problem 3. Poke Mon\bin\Debug\netcoreapp2.0\Problem 3. Poke Mon.runtimeconfig.dev.json
+D:\Project\Tech Module\Exam Preparation\Problem 3. Poke Mon\bin\Debug\netcoreapp2.0\Problem 3. Poke Mon.dll
+D:\Project\Tech Module\Exam Preparation\Problem 3. Poke Mon\bin\Debug\netcoreapp2.0\Problem 3. Poke Mon.pdb
+D:\Project\Tech Module\Exam Preparation\Problem 3. Poke Mon\obj\Debug\netcoreapp2.0\Problem 3. Poke Mon.csprojAssemblyReference.cache
+D:\Project\Tech Module\Exam Preparation\Problem 3. Poke Mon\obj\Debug\netcoreapp2.0\Problem 3. Poke Mon.csproj.CoreCompileInputs.cache
+D:\Project\Tech Module\Exam Preparation\Problem 3. Poke Mon\obj\Debug\netcoreapp2.0\Problem 3. Poke Mon.AssemblyInfoInputs.cache
+D:\Project\Tech Module\Exam Preparation\Problem 3. Poke Mon\obj\Debug\netcoreapp2.0\Problem 3. Poke Mon.AssemblyInfo.cs
+D:\Project\Tech Module\Exam Preparation\Problem 3. Poke Mon\obj\Debug\netcoreapp2.0\Problem 3. Poke Mon.dll
+D:\Project\Tech Module\Exam Preparation\Problem 3. Poke Mon\obj\Debug\netcoreapp2.0\Problem 3. Poke Mon.pdb

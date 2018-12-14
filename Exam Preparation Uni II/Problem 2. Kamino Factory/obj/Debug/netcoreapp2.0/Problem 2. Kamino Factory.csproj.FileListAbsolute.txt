@@ -1,0 +1,11 @@
+D:\Project\Tech Module\Exam Preparation Uni II\Problem 2. Kamino Factory\bin\Debug\netcoreapp2.0\Problem 2. Kamino Factory.deps.json
+D:\Project\Tech Module\Exam Preparation Uni II\Problem 2. Kamino Factory\bin\Debug\netcoreapp2.0\Problem 2. Kamino Factory.runtimeconfig.json
+D:\Project\Tech Module\Exam Preparation Uni II\Problem 2. Kamino Factory\bin\Debug\netcoreapp2.0\Problem 2. Kamino Factory.runtimeconfig.dev.json
+D:\Project\Tech Module\Exam Preparation Uni II\Problem 2. Kamino Factory\bin\Debug\netcoreapp2.0\Problem 2. Kamino Factory.dll
+D:\Project\Tech Module\Exam Preparation Uni II\Problem 2. Kamino Factory\bin\Debug\netcoreapp2.0\Problem 2. Kamino Factory.pdb
+D:\Project\Tech Module\Exam Preparation Uni II\Problem 2. Kamino Factory\obj\Debug\netcoreapp2.0\Problem 2. Kamino Factory.csproj.CoreCompileInputs.cache
+D:\Project\Tech Module\Exam Preparation Uni II\Problem 2. Kamino Factory\obj\Debug\netcoreapp2.0\Problem 2. Kamino Factory.AssemblyInfoInputs.cache
+D:\Project\Tech Module\Exam Preparation Uni II\Problem 2. Kamino Factory\obj\Debug\netcoreapp2.0\Problem 2. Kamino Factory.AssemblyInfo.cs
+D:\Project\Tech Module\Exam Preparation Uni II\Problem 2. Kamino Factory\obj\Debug\netcoreapp2.0\Problem 2. Kamino Factory.dll
+D:\Project\Tech Module\Exam Preparation Uni II\Problem 2. Kamino Factory\obj\Debug\netcoreapp2.0\Problem 2. Kamino Factory.pdb
+D:\Project\Tech Module\Exam Preparation Uni II\Problem 2. Kamino Factory\obj\Debug\netcoreapp2.0\Problem 2. Kamino Factory.csprojAssemblyReference.cache

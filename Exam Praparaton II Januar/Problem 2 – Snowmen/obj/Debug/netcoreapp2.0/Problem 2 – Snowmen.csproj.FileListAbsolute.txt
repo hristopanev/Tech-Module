@@ -1,0 +1,11 @@
+D:\Project\Tech Module\Exam Praparaton II Januar\Problem 2 – Snowmen\obj\Debug\netcoreapp2.0\Problem 2 – Snowmen.csprojAssemblyReference.cache
+D:\Project\Tech Module\Exam Praparaton II Januar\Problem 2 – Snowmen\obj\Debug\netcoreapp2.0\Problem 2 – Snowmen.csproj.CoreCompileInputs.cache
+D:\Project\Tech Module\Exam Praparaton II Januar\Problem 2 – Snowmen\obj\Debug\netcoreapp2.0\Problem 2 – Snowmen.AssemblyInfoInputs.cache
+D:\Project\Tech Module\Exam Praparaton II Januar\Problem 2 – Snowmen\obj\Debug\netcoreapp2.0\Problem 2 – Snowmen.AssemblyInfo.cs
+D:\Project\Tech Module\Exam Praparaton II Januar\Problem 2 – Snowmen\bin\Debug\netcoreapp2.0\Problem 2 – Snowmen.deps.json
+D:\Project\Tech Module\Exam Praparaton II Januar\Problem 2 – Snowmen\bin\Debug\netcoreapp2.0\Problem 2 – Snowmen.runtimeconfig.json
+D:\Project\Tech Module\Exam Praparaton II Januar\Problem 2 – Snowmen\bin\Debug\netcoreapp2.0\Problem 2 – Snowmen.runtimeconfig.dev.json
+D:\Project\Tech Module\Exam Praparaton II Januar\Problem 2 – Snowmen\bin\Debug\netcoreapp2.0\Problem 2 – Snowmen.dll
+D:\Project\Tech Module\Exam Praparaton II Januar\Problem 2 – Snowmen\bin\Debug\netcoreapp2.0\Problem 2 – Snowmen.pdb
+D:\Project\Tech Module\Exam Praparaton II Januar\Problem 2 – Snowmen\obj\Debug\netcoreapp2.0\Problem 2 – Snowmen.dll
+D:\Project\Tech Module\Exam Praparaton II Januar\Problem 2 – Snowmen\obj\Debug\netcoreapp2.0\Problem 2 – Snowmen.pdb

@@ -1,0 +1,11 @@
+D:\Project\Tech Module\Exam Preparation\Problem 2.2. Hornet Wings\bin\Debug\netcoreapp2.0\Problem 2.2. Hornet Wings.deps.json
+D:\Project\Tech Module\Exam Preparation\Problem 2.2. Hornet Wings\bin\Debug\netcoreapp2.0\Problem 2.2. Hornet Wings.runtimeconfig.json
+D:\Project\Tech Module\Exam Preparation\Problem 2.2. Hornet Wings\bin\Debug\netcoreapp2.0\Problem 2.2. Hornet Wings.runtimeconfig.dev.json
+D:\Project\Tech Module\Exam Preparation\Problem 2.2. Hornet Wings\bin\Debug\netcoreapp2.0\Problem 2.2. Hornet Wings.dll
+D:\Project\Tech Module\Exam Preparation\Problem 2.2. Hornet Wings\bin\Debug\netcoreapp2.0\Problem 2.2. Hornet Wings.pdb
+D:\Project\Tech Module\Exam Preparation\Problem 2.2. Hornet Wings\obj\Debug\netcoreapp2.0\Problem 2.2. Hornet Wings.csprojAssemblyReference.cache
+D:\Project\Tech Module\Exam Preparation\Problem 2.2. Hornet Wings\obj\Debug\netcoreapp2.0\Problem 2.2. Hornet Wings.csproj.CoreCompileInputs.cache
+D:\Project\Tech Module\Exam Preparation\Problem 2.2. Hornet Wings\obj\Debug\netcoreapp2.0\Problem 2.2. Hornet Wings.AssemblyInfoInputs.cache
+D:\Project\Tech Module\Exam Preparation\Problem 2.2. Hornet Wings\obj\Debug\netcoreapp2.0\Problem 2.2. Hornet Wings.AssemblyInfo.cs
+D:\Project\Tech Module\Exam Preparation\Problem 2.2. Hornet Wings\obj\Debug\netcoreapp2.0\Problem 2.2. Hornet Wings.dll
+D:\Project\Tech Module\Exam Preparation\Problem 2.2. Hornet Wings\obj\Debug\netcoreapp2.0\Problem 2.2. Hornet Wings.pdb

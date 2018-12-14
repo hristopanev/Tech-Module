@@ -1,0 +1,11 @@
+D:\Project\Tech Module\ConditonAndLoop\Problem 4. Month Printer\bin\Debug\netcoreapp2.0\Problem 4. Month Printer.deps.json
+D:\Project\Tech Module\ConditonAndLoop\Problem 4. Month Printer\bin\Debug\netcoreapp2.0\Problem 4. Month Printer.runtimeconfig.json
+D:\Project\Tech Module\ConditonAndLoop\Problem 4. Month Printer\bin\Debug\netcoreapp2.0\Problem 4. Month Printer.runtimeconfig.dev.json
+D:\Project\Tech Module\ConditonAndLoop\Problem 4. Month Printer\bin\Debug\netcoreapp2.0\Problem 4. Month Printer.dll
+D:\Project\Tech Module\ConditonAndLoop\Problem 4. Month Printer\bin\Debug\netcoreapp2.0\Problem 4. Month Printer.pdb
+D:\Project\Tech Module\ConditonAndLoop\Problem 4. Month Printer\obj\Debug\netcoreapp2.0\Problem 4. Month Printer.csprojResolveAssemblyReference.cache
+D:\Project\Tech Module\ConditonAndLoop\Problem 4. Month Printer\obj\Debug\netcoreapp2.0\Problem 4. Month Printer.csproj.CoreCompileInputs.cache
+D:\Project\Tech Module\ConditonAndLoop\Problem 4. Month Printer\obj\Debug\netcoreapp2.0\Problem 4. Month Printer.AssemblyInfoInputs.cache
+D:\Project\Tech Module\ConditonAndLoop\Problem 4. Month Printer\obj\Debug\netcoreapp2.0\Problem 4. Month Printer.AssemblyInfo.cs
+D:\Project\Tech Module\ConditonAndLoop\Problem 4. Month Printer\obj\Debug\netcoreapp2.0\Problem 4. Month Printer.dll
+D:\Project\Tech Module\ConditonAndLoop\Problem 4. Month Printer\obj\Debug\netcoreapp2.0\Problem 4. Month Printer.pdb
